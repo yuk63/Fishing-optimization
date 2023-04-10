@@ -1,0 +1,9 @@
+{
+  "Name": "Fishing optimization",
+  "Author": "Yukino",
+  "Version": "1.5.5",
+  "Description": "Personal Fishing Assistant For You",
+  "UniqueID": "Yukino.Fishing optimization",
+  "EntryDll": "Fishingoptimization.dll",
+  "MinimumApiVersion": "3.2.2",
+}
